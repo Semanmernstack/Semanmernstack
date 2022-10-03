@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Semanmernstack
-- 👀 I’m interested in mern stack
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate with JavaScript programmer
+- 👋 Hi, I’m @Semanstack
+- 👀 full stack developer
+- 🌱 react js
+- 💞️ next js
+     Rest API, redux, recoil, firebase
 - 📫 How to reach me abejidemustapha@gmail.com
 
 <!---
